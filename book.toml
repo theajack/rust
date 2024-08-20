@@ -1,6 +1,9 @@
 [rust]
 edition = "2021"   #在线运行用2021版本的
 
+[build]
+build-dir = "docs"
+
 [book]
 authors = ["sunface"]
 language = "zh-CN"
